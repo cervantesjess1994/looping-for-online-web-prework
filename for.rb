@@ -1,7 +1,7 @@
 
 def using_for
 	"Wingardium Leviosa"
-end 
+end
 
 	checklist = 1..10
 for each item in checklist
